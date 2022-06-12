@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "botwhatsappcajav2-promo-phkn",
+  "private_key_id": "7155d5eb8e5c8457648077dda6d165063cf28ae5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWAI2oISYfZqdY\n0SMwc1B53mYaQBOcfFNfZMY1+y9An1+VpCdDb3xdcjQVx5Yt4+4yGRrA2Zs8ExIK\n0JaLIVCKswhAGqdyqSYQdtYGbsMzkpKO1J7+GFCNB1luzF8WtFwKDdrNAOXKaDVL\nUCp7r87bUCMHc+eDjXfvRHTdGyalwkVGX92F4C8zbrOV7bg761cwb3xM7QWCg9Wr\n7GNxLMaU2nezXLODzFZ6wxv8zxAYyoUvJpdykrmswdI6PLCuKJL5kwKswUsoEx73\nGlR+2Lir7PBQHgF8hZDVwAS+f6wwPUzA1mzlECcTP298ABBzHjJZVeTmoMVYZApE\n0FtCJsLjAgMBAAECggEAJy2GwYcAEbObY3k2NgKGcykyDBA7BuUD5mzulKddqTkE\nKMMapQ/d9sWXn30gk1otG2LZMQElmEPtg6lYRjRdKGdKVWIL0cQBwfXfjOHuPpzQ\n0/E9Aku1Q3xa9RvZNLDkQLr0mZ9Wck3No/ITNP2koyXyo8SmV8EoeddQhcIYuzOV\nrmCnykenHr7gO3Mv3qsQo1ZbGNCiG/tub0DEl6m8FyoNwuwDvlA4dkxuDnbB/FvX\nxXC22o5e1mfVCOW/TB6kc5vNBpbMVo7IOCbPr5u04P0dBTNJTBNUFpZaiaT9M3xU\nhQWL+QwVIWPlhM9RALDBjRDU8fRlM2y4OAtnsDeLcQKBgQD/nfbnTgEprLFUpdXN\n9vI7ttOCxrkEYX4/sR/avO5L8mouGjOVyRrBr1zYj/KEvxbWOtrNGXG/DUdItTY9\nO2nbMljyrtC/ooQxGkYwbx5vE0wIvtgdyOpAQD97Sd4eAcPX3bjBb/9vliTUii3V\nv3birDg6IVE1RfLIFZDZPIbZ/wKBgQDWUqDnTh244C8eR7cPZhFnTDnQ1MV1qG9+\nR/hc/zcEMhNTAiSUGW4j3l7Js1dZkaafWdlrHah7LrhiKKmWsxkski2LpvlmwCsO\nUUNwAwYbv+5mYyLX+tvKlxJUSLrXyJ9D9ETzelsM+btsX1jTjyFEisxJtrr9npW1\npLytAKXvHQKBgEX84lWCrh7TAdrDbT7vlnNzI4ZzEsV4TDD0NlyVzklNHnVxBx7D\n6WeOtEU3ZJekGoSdqLrvdI1y/UmTFD6/vcQejOwloVJXFQq8vusUAak4B2F9n37I\nPBtLfBYtq3tb0FuSgbu1BqNu4Law/su/mLWHof2IkcucU1UlUnuobuPRAoGBAMBq\nUpcXpMuUSfkvfYRPqJRK9SUtwVGOtPp09t/XKbeUlZDSvbBQ3HdLb2I6ptN9VlB+\nRBpM+DQPj+5gf1ES3ikL2+QjNoovQPiLsLXhoRxMxmYZ3vB1AdryorwUx9pu/b3u\nkfDeCtytYL09JOxa9g0pZ5tOeLa2J8Z6bgIMMO1pAoGBAKU8Si9uE2GBhOrpXHbn\npgqWkW+3sg38te/kqo5988avzaFew1dtqOJjJB1FYYPnmwlctm4208IuDlTLRIP5\n3aBgMtzdw9rLmJeCaf5jesnKXaCuadZG68d8vOT5myRySnpduawZ0bVmKSgmr5oZ\nFoC0roqojBFaaer9NXjIE4B8\n-----END PRIVATE KEY-----\n",
+  "client_email": "conversacion-promo@botwhatsappcajav2-promo-phkn.iam.gserviceaccount.com",
+  "client_id": "101906375491763383933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conversacion-promo%40botwhatsappcajav2-promo-phkn.iam.gserviceaccount.com"
+}

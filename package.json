@@ -1,10 +1,28 @@
 {
-  "name": "http-nodejs",
-  "version": "1.0.0",
+  "name": "cajabot",
+  "version": "2.0.0",
+  "description": "backend cajabot",
   "main": "index.js",
-  "author": "Aiden Bai",
-  "license": "MIT",
+  "author": "JCHB / Heros",
+  "engines": {
+    "npm": "8.1.1"
+  },
   "scripts": {
-    "start": "node server.mjs"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^4.6.0",
+    "@wppconnect-team/wppconnect": "^1.12.4",
+    "actions-on-google": "^3.0.0",
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "gtts": "^0.2.1",
+    "nodemailer": "^6.7.2",
+    "uuid": "^8.3.2"
   }
 }
